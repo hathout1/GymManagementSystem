@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace GymManagementSystem.ViewModels
+namespace GymManagementSystem.ViewModels.Plan
 {
     public class UpdatedPlanViewModel
     {
